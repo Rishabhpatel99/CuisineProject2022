@@ -1,0 +1,26 @@
+.logo-home{
+    /* height: 100px; */
+    width: 100px !important;
+    /* width: auto; */
+    /* padding: 2px; */
+}
+
+.missedIngredient{
+    color:red;
+}
+
+.usedIngredient{
+    color: rgb(6, 167, 6);
+}
+
+.loginImg{
+    background-image:url('../src/assets/img/bn2.jpg');
+}
+
+.searchJob{
+    background-image:url('../src/assets/img/gallery1.jpg')
+}
+
+#searchbtn{
+    height: 50px;
+}
